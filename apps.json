@@ -1,5 +1,5 @@
 {
-  "hubot": {
+  "steve": {
     "provider": "heroku",
     "auto_merge": false,
     "repository": "thejonanshow/steve",
