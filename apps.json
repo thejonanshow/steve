@@ -5,6 +5,6 @@
     "repository": "thejonanshow/steve",
     "environments": ["production"],
 
-    "heroku_production_name": "hal-steve"
+    "heroku_production_name": "hal-steve-production"
   }
 }
