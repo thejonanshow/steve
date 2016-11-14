@@ -3,8 +3,9 @@
     "provider": "heroku",
     "auto_merge": false,
     "repository": "thejonanshow/steve",
-    "environments": ["production"],
+    "environments": ["staging", "production"],
 
-    "heroku_production_name": "hal-steve-production"
+    "heroku_production_name": "hal-steve-production",
+    "heroku_staging_name": "hal-steve-staging"
   }
 }
